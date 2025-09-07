@@ -1,7 +1,7 @@
 
-# 🤰 MatriCare-AI-based Maternal Health Assistant      
+#  Maternova-AI-based Maternal Health Assistant      
 
-**MatriCare** is an AI-powered maternal healthcare platform designed to provide **personalized support**, **risk prediction**, and **real-time assistance** for expectant mothers.
+**Maternova** is an AI-powered maternal healthcare platform designed to provide **personalized support**, **risk prediction**, and **real-time assistance** for expectant mothers.
 
 ## 📱 App Preview
 
@@ -35,7 +35,7 @@
 * **Backend:** Node.js, Express
 * **AI Models:** Python (scikit-learn, numpy, Pandas)
 * **Database:** MongoDB
-* **ML Algorithms:** Random Forest (achieved 98.4% accuracy in risk prediction)
+* **ML Algorithms:** Random Forest 
 * **Cloud Services:** AWS/GCP
 
 ## Dataset
@@ -54,7 +54,7 @@ The solution is built on maternal healthcare data collected from rural areas of 
 
 ## Goal
 
-MatriCare aims to reduce maternal mortality and improve the pregnancy experience by empowering mothers with **knowledge**, **early detection**, and **timely care**.
+Maternova aims to reduce maternal mortality and improve the pregnancy experience by empowering mothers with **knowledge**, **early detection**, and **timely care**.
 
 ## 🤝 Contributing
 
