@@ -1,0 +1,485 @@
+{
+    "first_trimester": {
+        "vegetarian": {
+            "what_to_eat_drink": [
+                "Spinach dal",
+                "Methi paratha",
+                "Orange juice",
+                "Besan chilla",
+                "Boiled potatoes with chaat masala",
+                "Dry fruits",
+                "Roti",
+                "Brown rice",
+                "Oats",
+                "Paneer bhurji",
+                "Dal",
+                "Soy chunks curry",
+                "Palak paneer",
+                "Beetroot salad",
+                "Fortified cereals",
+                "Curd",
+                "Lassi",
+                "Almond milk"
+            ],
+            "what_to_avoid": [
+                "Unpasteurized Dairy Products",
+                "Raw or Undercooked Foods",
+                "High Caffeine"
+            ]
+        },
+        "non_vegetarian": {
+            "what_to_eat_drink": [
+                "Spinach chicken curry",
+                "Lentil soup",
+                "Oranges",
+                "Boiled eggs",
+                "Chicken salad",
+                "Roti",
+                "Brown rice",
+                "Whole wheat bread",
+                "Chicken curry",
+                "Fish (avoid high-mercury fish)",
+                "Chicken liver",
+                "Mutton curry",
+                "Spinach",
+                "Milk",
+                "Yogurt",
+                "Sardines"
+            ],
+            "what_to_avoid": [
+                "Raw or Undercooked Meat",
+                "High Mercury Fish",
+                "Unpasteurized Dairy Products"
+            ]
+        }
+    },
+    "second_trimester": {
+        "vegetarian": {
+            "what_to_eat_drink": [
+                "Ragi porridge",
+                "Paneer",
+                "Sesame seeds",
+                "Walnuts",
+                "Flaxseeds",
+                "Chia seeds",
+                "Mixed dal",
+                "Rajma",
+                "Quinoa",
+                "Whole wheat bread",
+                "Fruits like apples and pears",
+                "Oats",
+                "Fortified cereals",
+                "Mushroom curry",
+                "Exposure to sunlight"
+            ],
+            "what_to_avoid": [
+                "Excess Sugar",
+                "High Sodium",
+                "Raw Sprouts"
+            ]
+        },
+        "non_vegetarian": {
+            "what_to_eat_drink": [
+                "Milk",
+                "Yogurt",
+                "Fish like salmon",
+                "Fish",
+                "Eggs",
+                "Flaxseeds",
+                "Grilled chicken",
+                "Fish curry",
+                "Boiled eggs",
+                "Whole grains",
+                "Fruits",
+                "Vegetables",
+                "Fortified milk",
+                "Exposure to sunlight"
+            ],
+            "what_to_avoid": [
+                "High Mercury Fish",
+                "Excess Sugar",
+                "High Sodium"
+            ]
+        }
+    },
+    "third_trimester": {
+        "vegetarian": {
+            "what_to_eat_drink": [
+                "Beetroot",
+                "Spinach",
+                "Jaggery",
+                "Citrus fruits",
+                "Tomatoes",
+                "Bell peppers",
+                "Lentils",
+                "Chickpeas",
+                "Tofu",
+                "Ghee",
+                "Nuts",
+                "Seeds",
+                "Coconut water",
+                "Fresh juices",
+                "Water"
+            ],
+            "what_to_avoid": [
+                "Spicy and Greasy Foods",
+                "Excessive Salt",
+                "Unripe Papaya"
+            ]
+        },
+        "non_vegetarian": {
+            "what_to_eat_drink": [
+                "Mutton",
+                "Chicken liver",
+                "Spinach",
+                "Lemon juice",
+                "Oranges",
+                "Guava",
+                "Chicken",
+                "Fish",
+                "Eggs",
+                "Ghee",
+                "Fish",
+                "Nuts",
+                "Coconut water",
+                "Soups",
+                "Water"
+            ],
+            "what_to_avoid": [
+                "Spicy and Greasy Foods",
+                "Excessive Salt",
+                "Raw or Undercooked Eggs/Meat"
+            ]
+        }
+    },
+    "foods_to_avoid": [
+        {
+            "category": "Raw or Undercooked Foods",
+            "foods": [
+                "Raw meat (including sushi, undercooked poultry)",
+                "Raw eggs",
+                "Raw fish"
+            ],
+            "reason": "Risk of foodborne illnesses like salmonella, listeria, toxoplasmosis."
+        },
+        {
+            "category": "High Mercury Fish",
+            "foods": [
+                "Shark",
+                "Swordfish",
+                "King mackerel",
+                "Tilefish"
+            ],
+            "reason": "Mercury can harm the baby's developing nervous system."
+        },
+        {
+            "category": "Unpasteurized Dairy Products",
+            "foods": [
+                "Raw milk",
+                "Soft cheeses like brie, feta, camembert (unless made with pasteurized milk)"
+            ],
+            "reason": "Risk of listeria infection."
+        },
+        {
+            "category": "Certain Seafood",
+            "foods": [
+                "Smoked seafood (unless cooked)",
+                "Refrigerated seafood spreads"
+            ],
+            "reason": "Risk of listeria contamination."
+        },
+        {
+            "category": "Processed Meats",
+            "foods": [
+                "Deli meats (unless heated until steaming hot)",
+                "Hot dogs",
+                "Sausages"
+            ],
+            "reason": "Risk of listeria and high levels of nitrates."
+        },
+        {
+            "category": "Raw Sprouts",
+            "foods": [
+                "Alfalfa",
+                "Mung bean",
+                "Radish sprouts"
+            ],
+            "reason": "Can be contaminated with bacteria like E. coli and salmonella."
+        },
+        {
+            "category": "Unwashed Fruits and Vegetables",
+            "foods": [
+                "Unwashed produce"
+            ],
+            "reason": "Risk of toxoplasmosis from soil contamination."
+        },
+        {
+            "category": "Caffeine",
+            "foods": [
+                "Excessive coffee",
+                "Energy drinks",
+                "High-caffeine tea"
+            ],
+            "reason": "High levels of caffeine can lead to low birth weight and preterm birth."
+        },
+        {
+            "category": "Alcohol",
+            "foods": [
+                "All alcoholic beverages"
+            ],
+            "reason": "Can lead to fetal alcohol spectrum disorders (FASD)."
+        },
+        {
+            "category": "Artificial Sweeteners",
+            "foods": [
+                "Saccharin",
+                "Cyclamate"
+            ],
+            "reason": "Some studies suggest potential risks, though data is inconclusive."
+        },
+        {
+            "category": "Excessive Sugar",
+            "foods": [
+                "Sweets",
+                "Sugary drinks"
+            ],
+            "reason": "Can lead to excessive weight gain, gestational diabetes."
+        },
+        {
+            "category": "Excessive Salt",
+            "foods": [
+                "Processed snacks",
+                "Fast food"
+            ],
+            "reason": "Can contribute to high blood pressure and swelling."
+        },
+        {
+            "category": "Certain Herbal Teas",
+            "foods": [
+                "Licorice tea",
+                "Peppermint tea in large quantities"
+            ],
+            "reason": "Some herbs can induce contractions or other complications."
+        },
+        {
+            "category": "Unripe Papaya",
+            "foods": [
+                "Unripe or semi-ripe papaya"
+            ],
+            "reason": "Contains latex, which can trigger uterine contractions."
+        },
+        {
+            "category": "Liver Products",
+            "foods": [
+                "Liver",
+                "Liver p\u00e2t\u00e9"
+            ],
+            "reason": "High in vitamin A, which can cause birth defects if consumed in excess."
+        },
+        {
+            "category": "Certain Homemade Products",
+            "foods": [
+                "Homemade mayonnaise (if made with raw eggs)",
+                "Homemade ice cream"
+            ],
+            "reason": "Risk of salmonella from raw eggs."
+        }
+    ],
+    "Skincare Products to Avoid During Pregnancy (Indian Market)": {
+        "Retinoids": {
+            "Ingredients to Avoid": [
+                "Retinol",
+                "Retin-A",
+                "Renova",
+                "Differin (adapalene)",
+                "Tazorac (tazarotene)",
+                "Isotretinoin"
+            ],
+            "Examples of Products": [
+                "Retino A (Menarini India)",
+                "Tretinoin Cream (Various brands)"
+            ]
+        },
+        "Salicylic Acid": {
+            "Ingredients to Avoid": [
+                "Salicylic acid (high-dose)"
+            ],
+            "Examples of Products": [
+                "Clean & Clear Pimple Clearing Face Wash (Johnson & Johnson)",
+                "Neutrogena Oil-Free Acne Wash"
+            ]
+        },
+        "Hydroquinone": {
+            "Ingredients to Avoid": [
+                "Hydroquinone"
+            ],
+            "Examples of Products": [
+                "Melalite Forte Cream (Abbott)",
+                "Eukroma Cream (Yash Pharma)"
+            ]
+        },
+        "Phthalates": {
+            "Ingredients to Avoid": [
+                "Diethyl phthalate (DEP)",
+                "Dimethyl phthalate (DMP)",
+                "Diethylhexyl phthalate (DEHP)"
+            ],
+            "Examples of Products": [
+                "Some Dove deodorants",
+                "Pantene hair sprays",
+                "Nivea lotions"
+            ]
+        },
+        "Formaldehyde": {
+            "Ingredients to Avoid": [
+                "Formaldehyde",
+                "Formaldehyde-releasing preservatives"
+            ],
+            "Examples of Products": [
+                "Some Lakme nail polishes",
+                "Revlon hair treatments"
+            ]
+        },
+        "Chemical Sunscreens": {
+            "Ingredients to Avoid": [
+                "Oxybenzone",
+                "Avobenzone",
+                "Octocrylene",
+                "Homosalate",
+                "Octinoxate",
+                "Octisalate"
+            ],
+            "Examples of Products": [
+                "Lotus Herbals Safe Sun Sunscreen Gel",
+                "Neutrogena Ultra Sheer Sunscreen"
+            ]
+        },
+        "Essential Oils (in high concentration)": {
+            "Ingredients to Avoid": [
+                "Tea tree oil",
+                "Rosemary oil",
+                "Clary sage oil",
+                "Jasmine oil",
+                "Juniper oil"
+            ],
+            "Examples of Products": [
+                "Some Soulflower essential oils",
+                "Khadi products"
+            ]
+        },
+        "Benzoyl Peroxide": {
+            "Ingredients to Avoid": [
+                "Benzoyl peroxide"
+            ],
+            "Examples of Products": [
+                "Benzac AC Gel (Galderma)",
+                "Brevoxyl Cream (Abbott)"
+            ]
+        },
+        "Tetracycline": {
+            "Ingredients to Avoid": [
+                "Tetracycline",
+                "Doxycycline",
+                "Minocycline"
+            ],
+            "Examples of Products": [
+                "Prescription acne treatments, consult with healthcare provider"
+            ]
+        },
+        "Parabens": {
+            "Ingredients to Avoid": [
+                "Methylparaben",
+                "Propylparaben",
+                "Butylparaben",
+                "Ethylparaben"
+            ],
+            "Examples of Products": [
+                "Some Himalaya moisturizers",
+                "Garnier shampoos",
+                "Lotus lotions"
+            ]
+        },
+        "Diethanolamine (DEA) and Triethanolamine (TEA)": {
+            "Ingredients to Avoid": [
+                "Diethanolamine (DEA)",
+                "Triethanolamine (TEA)"
+            ],
+            "Examples of Products": [
+                "Some Pears soaps",
+                "Head & Shoulders shampoos"
+            ]
+        },
+        "High-dose Vitamin A": {
+            "Ingredients to Avoid": [
+                "Retinoic acid",
+                "Retinol"
+            ],
+            "Examples of Products": [
+                "Anti-aging products",
+                "acne treatments (various brands)"
+            ]
+        }
+    },
+    "Skincare Products to Avoid During Pregnancy": {
+        "Retinoids": [
+            "Retinol",
+            "Retin-A",
+            "Renova",
+            "Differin (adapalene)",
+            "Tazorac (tazarotene)",
+            "Isotretinoin"
+        ],
+        "Salicylic Acid": [
+            "Salicylic acid (high-dose)"
+        ],
+        "Hydroquinone": [
+            "Hydroquinone"
+        ],
+        "Phthalates": [
+            "Diethyl phthalate (DEP)",
+            "Dimethyl phthalate (DMP)",
+            "Diethylhexyl phthalate (DEHP)"
+        ],
+        "Formaldehyde": [
+            "Formaldehyde",
+            "Formaldehyde-releasing preservatives"
+        ],
+        "Chemical Sunscreens": [
+            "Oxybenzone",
+            "Avobenzone",
+            "Octocrylene",
+            "Homosalate",
+            "Octinoxate",
+            "Octisalate"
+        ],
+        "Essential Oils (in high concentration)": [
+            "Tea tree oil",
+            "Rosemary oil",
+            "Clary sage oil",
+            "Jasmine oil",
+            "Juniper oil"
+        ],
+        "Benzoyl Peroxide": [
+            "Benzoyl peroxide"
+        ],
+        "Tetracycline": [
+            "Tetracycline",
+            "Doxycycline",
+            "Minocycline"
+        ],
+        "Parabens": [
+            "Methylparaben",
+            "Propylparaben",
+            "Butylparaben",
+            "Ethylparaben"
+        ],
+        "Diethanolamine (DEA) and Triethanolamine (TEA)": [
+            "Diethanolamine (DEA)",
+            "Triethanolamine (TEA)"
+        ],
+        "High-dose Vitamin A": [
+            "Retinoic acid",
+            "Retinol"
+        ]
+    }
+}

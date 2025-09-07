@@ -1,0 +1,57 @@
+{
+    
+    "First Trimester (Weeks 1-12)": {
+        "Do's": {
+            "Eat Healthy Foods": "Include fruits, vegetables, whole grains, and dairy products.",
+            "Take Prenatal Vitamins": "Take folic acid supplements daily.",
+            "Stay Hydrated": "Drink plenty of water, coconut water, and fresh juices.",
+            "Exercise Gently": "Walk, do prenatal yoga, or light stretching.",
+            "Get Plenty of Rest": "Take naps and ensure 8 hours of sleep at night.",
+            "Regular Doctor Visits": "Schedule regular prenatal check-ups."
+        },
+        "Don'ts": {
+            "Avoid Junk Food": "Limit fast food, sugary snacks, and sodas.",
+            "Avoid Certain Medications": "Consult your doctor before taking any medication.",
+            "Avoid Caffeine": "Limit tea, coffee, and caffeinated sodas.",
+            "Avoid Heavy Lifting": "Don't lift heavy objects or do strenuous exercises.",
+            "Avoid Stress": "Practice relaxation techniques like deep breathing.",
+            "Avoid Alcohol and Smoking": "Completely avoid alcohol, smoking, and secondhand smoke."
+        }
+    },
+    "Second Trimester (Weeks 13-26)": {
+        "Do's": {
+            "Balanced Diet": "Eat a variety of proteins, fruits, vegetables, and whole grains.",
+            "Iron and Calcium Intake": "Include iron-rich foods like spinach and lean meats, and calcium-rich foods like dairy.",
+            "Stay Active": "Continue gentle exercises like walking and swimming.",
+            "Hydration": "Keep drinking plenty of fluids to stay hydrated.",
+            "Monitor Weight Gain": "Track your weight gain and aim for healthy progress.",
+            "Comfortable Clothing": "Wear loose, comfortable clothing and supportive shoes."
+        },
+        "Don'ts": {
+            "Avoid Unpasteurized Products": "Avoid unpasteurized milk, cheese, and juices.",
+            "Avoid Raw and Undercooked Foods": "Avoid sushi, raw eggs, and undercooked meats.",
+            "Avoid High-Mercury Fish": "Avoid fish like swordfish, shark, and king mackerel.",
+            "Avoid Certain Skincare Products": "Avoid skincare products with retinoids and salicylic acid.",
+            "Avoid Stress": "Practice stress-relief techniques like prenatal yoga or meditation.",
+            "Avoid High Heels": "Avoid wearing high heels to prevent falls."
+        }
+    },
+    "Third Trimester (Weeks 27-40)": {
+        "Do's": {
+            "Prepare for Baby's Arrival": "Start preparing the nursery and packing a hospital bag.",
+            "Eat Fiber-Rich Foods": "Include whole grains, fruits, and vegetables to prevent constipation.",
+            "Practice Good Posture": "Maintain good posture to ease back pain.",
+            "Stay Hydrated": "Drink plenty of water to stay hydrated.",
+            "Attend Prenatal Classes": "Attend childbirth and breastfeeding classes.",
+            "Regular Doctor Visits": "Continue regular check-ups and discuss any concerns."
+        },
+        "Don'ts": {
+            "Avoid Heavy Lifting": "Don't lift heavy objects or do strenuous activities.",
+            "Avoid Junk Food": "Limit intake of fast food and sugary snacks.",
+            "Avoid Lying on Your Back": "Avoid sleeping on your back; lie on your side instead.",
+            "Avoid Long Standing Periods": "Don't stand for long periods to prevent swelling.",
+            "Avoid Overexertion": "Don't overexert yourself; take breaks and rest when needed.",
+            "Avoid Alcohol and Smoking": "Completely avoid alcohol, smoking, and secondhand smoke."
+        }
+    }
+}
